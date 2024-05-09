@@ -1,0 +1,209 @@
+* {
+
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header_nav {
+    background: #000113;
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+.nav_bar {
+    display: flex;
+    margin-left: 60px;
+}
+
+.nav_li {
+    list-style: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 40px;
+    color: #02b9f8;
+}
+
+
+
+.logo {
+    width: 11%;
+}
+
+.img-logo {
+    width: 100%;
+    margin-left: 15px;
+
+}
+
+.main_body {
+    background-color: #000113;
+    height: 510px;
+    width: 100%;
+}
+
+.content_bd {
+    color: white;
+    padding-top: 260px;
+    width: 490px;
+    margin-left: 70px;
+    height: 245px;
+}
+
+.hedline {
+    margin-bottom: 15px;
+}
+
+.cont_mid_baner {
+    margin-top: 30px;
+    margin-left: 290px;
+    font-size: 20px;
+    ;
+}
+
+.mid_cont {
+    width: 750px;
+    text-align: center;
+}
+
+.mid_btn {
+    margin-left: 290px;
+    margin-top: 20px;
+}
+
+.mid_btn {
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.mid_btn:hover {
+    background-color: #02b9f8;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    transition: .3s ease-out;
+    color: white;
+    border: 2px solid #02b9f8;
+}
+
+.option {
+    display: flex;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.section_bg {
+    background-image: url('houseplant-gardening-hobby-illustration-remix.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.section_bg:hover {
+    color: black;
+    background: #ffffff;
+    transition: 1s;
+}
+
+
+.section_first {
+    margin-left: 90px;
+    text-align: center;
+    padding-right: 60px;
+    padding-top: 150px;
+    height: 475px;
+}
+
+.SECTION_BG2 {
+    background-image: url('creative-light-bulb-abstract-glowing-blue-background-generative-ai_188544-8090.avif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.SECTION_BG2:hover {
+    color: #000113;
+    background: #ffffff0e;
+    transition: 3s;
+}
+
+.hover_sec_1 {
+    color: #02b9f8;
+}
+
+.section_second {
+    text-align: center;
+    padding-top: 150px;
+    margin-left: 90px;
+    padding-right: 60px;
+}
+
+.btn_section {
+    margin-top: 30px;
+}
+
+#sec_btn {
+    margin: auto;
+}
+
+.chat_section {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.cht_txt {
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.cht {
+    font-family: "caveat";
+}
+
+.cont_number {
+    margin-left: 105px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.foot_main {
+    background-color: #000113;
+}
+
+.foot {
+    margin-top: 50px;
+
+    color: #02b9f8;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.foopt_logo {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.foopt_logo:hover {
+    border: 2px solid #02b9f8;
+    background-color: #02b9f8;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    border-radius: 10px;
+}
+
+.fa {
+    font-size: 24px;
+}
+
+.link_foot {
+    /* text-decoration: none; */
+    color: #02b9f8;
+}
+
+.copy_right {
+    color: #02b9f8;
+    margin-left: 50px;
+}
